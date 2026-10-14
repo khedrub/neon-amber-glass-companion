@@ -10,7 +10,7 @@ Hintergrund-Transparenz und Tönung bleiben vom nativen Fenstermaterial getrennt
 
 - macOS-Desktop. Windows, Linux und Mobilgeräte werden für native Fenstermaterialien nicht unterstützt.
 - Obsidian 1.14.4 oder neuer. Getestet mit Installer 1.13.7.
-- Das Neon Amber Glass-Theme und Obsidians aktivierte Einstellung **Durchscheinendes Fenster**.
+- Das Neon Amber Glass-Theme und Obsidians aktivierte Einstellung **Transparenzeffekt** (englisch: **Translucent window**).
 - [Style Settings](https://github.com/community-archive/obsidian-style-settings) für die Materialauswahl. Ohne dieses Plugin wird das dunkle HUD-Standardmaterial des Themes verwendet.
 
 ## Installation
