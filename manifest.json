@@ -1,9 +1,9 @@
 {
   "id": "neon-amber-glass-companion",
   "name": "Neon Amber Glass Companion",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "minAppVersion": "1.14.4",
-  "description": "Switch between clear, frosted and dark HUD window materials on macOS when using the Neon Amber Glass theme.",
+  "description": "Native macOS glass for Neon Amber Glass: clear or dark HUD. / Natives macOS-Glas für Neon Amber Glass: klar oder dunkles HUD.",
   "author": "khedrub",
   "isDesktopOnly": true,
   "authorUrl": "https://github.com/khedrub"

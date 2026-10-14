@@ -1,0 +1,192 @@
+{
+  "nag-glass": {
+    "en": {
+      "title": "Glass & transparency",
+      "description": ""
+    },
+    "de": {
+      "title": "Glas & Transparenz",
+      "description": ""
+    }
+  },
+  "nag-transparency": {
+    "en": {
+      "title": "Background transparency",
+      "description": "0 = opaque, 100 = fully transparent surfaces. Text stays opaque. True desktop transparency requires Obsidian to create a transparent window."
+    },
+    "de": {
+      "title": "Hintergrund-Transparenz",
+      "description": "0 = blickdicht, 100 = vollständig transparente Flächen. Text bleibt deckend. Echte Desktop-Durchsicht benötigt ein transparent gestartetes Obsidian-Fenster."
+    }
+  },
+  "nag-reading-shade": {
+    "en": {
+      "title": "Extra note shading",
+      "description": "Adds shading in proportion to the remaining note opacity. At transparency 100, the note is fully transparent too."
+    },
+    "de": {
+      "title": "Zusätzliche Abdunklung der Notiz",
+      "description": "Verstärkt die vorhandene Abdunklung der Notiz. Bei Transparenz 100 bleibt auch die Notiz vollständig durchsichtig."
+    }
+  },
+  "nag-blur": {
+    "en": {
+      "title": "Blur behind popups",
+      "description": "Blurs the note behind menus, search dialogs and popups. Use Window glass for desktop blur; macOS does not expose a continuous pixel-radius control."
+    },
+    "de": {
+      "title": "Blur hinter Popups",
+      "description": "Weichzeichnung der Notiz hinter Menüs, Suchfenstern und Popups. Für den Desktop-Blur bitte Fensterglas verwenden; macOS bietet dort keinen stufenlosen Pixel-Regler."
+    }
+  },
+  "nag-tint": {
+    "en": {
+      "title": "Glass tint",
+      "description": ""
+    },
+    "de": {
+      "title": "Glas-Tönung",
+      "description": ""
+    }
+  },
+  "nag-tint-strength": {
+    "en": {
+      "title": "Tint strength",
+      "description": "0 = neutral, 100 = full color saturation. The dark glass keeps the same perceptual lightness; Background transparency controls its opacity."
+    },
+    "de": {
+      "title": "Stärke der Tönung",
+      "description": "0 = neutral, 100 = volle Farbsättigung. Die Helligkeit des dunklen Glases bleibt konstant; Durchsicht regelt Hintergrund-Transparenz."
+    }
+  },
+  "nag-native-material": {
+    "en": {
+      "title": "Window glass",
+      "description": "Requires Neon Amber Glass Companion and an Obsidian window created with native transparency enabled. Clear shows a sharp desktop; dark HUD glass uses native blur."
+    },
+    "de": {
+      "title": "Fensterglas",
+      "description": "Benötigt Neon Amber Glass Companion und ein mit nativer Transparenz gestartetes Obsidian-Fenster. Klar zeigt den Desktop scharf; dunkles HUD-Glas verwendet native Weichzeichnung."
+    }
+  },
+  "nag-solid": {
+    "en": {
+      "title": "Opaque reading mode",
+      "description": "Overrides transparency and disables blur. Your glass settings stay saved."
+    },
+    "de": {
+      "title": "Blickdichter Lesemodus",
+      "description": "Übersteuert die Transparenz und schaltet Blur aus. Die Glas-Regler bleiben gespeichert."
+    }
+  },
+  "nag-neon": {
+    "en": {
+      "title": "Neon & colors",
+      "description": ""
+    },
+    "de": {
+      "title": "Neon & Farben",
+      "description": ""
+    }
+  },
+  "nag-glow": {
+    "en": {
+      "title": "Neon glow",
+      "description": "0 = no glow, 1 = strong, 1.7 = retro terminal, 3 = maximum neon tube. Body text never glows."
+    },
+    "de": {
+      "title": "Neon-Glow",
+      "description": "0 = kein Glow, 1 = kräftig, 1.7 = Retro-Terminal, 3 = maximale Leuchtröhre. Fließtext bleibt immer ohne Glow."
+    }
+  },
+  "nag-nav-by-level": {
+    "en": {
+      "title": "Color navigation by depth",
+      "description": "Files and folders at the same depth share a color. Level 1 is orange, level 2 green, level 3 ice blue; then the sequence repeats. Turn this off to alternate colors by entry."
+    },
+    "de": {
+      "title": "Navigation nach Ebene färben",
+      "description": "Alle Dateien und Ordner gleicher Tiefe erhalten dieselbe Farbe. Ebene 1 Orange, Ebene 2 Grün, Ebene 3 Hellblau; danach wiederholt sich die Folge. Ausgeschaltet wechseln die Farben pro Eintrag."
+    }
+  },
+  "nag-yellow": {
+    "en": {
+      "title": "Soft yellow reading text",
+      "description": ""
+    },
+    "de": {
+      "title": "Sanftes Gelb für Lesetext",
+      "description": ""
+    }
+  },
+  "nag-orange": {
+    "en": {
+      "title": "Neon orange",
+      "description": ""
+    },
+    "de": {
+      "title": "Neon-Orange",
+      "description": ""
+    }
+  },
+  "nag-green": {
+    "en": {
+      "title": "Phosphor green",
+      "description": ""
+    },
+    "de": {
+      "title": "Phosphor-Grün",
+      "description": ""
+    }
+  },
+  "nag-blue": {
+    "en": {
+      "title": "Ice blue",
+      "description": ""
+    },
+    "de": {
+      "title": "Eis-Hellblau",
+      "description": ""
+    }
+  },
+  "nag-scanlines": {
+    "en": {
+      "title": "Subtle static scanlines",
+      "description": "An optional CRT touch without flicker or animation."
+    },
+    "de": {
+      "title": "Dezente statische Scanlines",
+      "description": "Optionaler CRT-Hauch ohne Flackern oder Animation."
+    }
+  },
+  "nag-type": {
+    "en": {
+      "title": "Readability",
+      "description": ""
+    },
+    "de": {
+      "title": "Lesbarkeit",
+      "description": ""
+    }
+  },
+  "nag-line-height": {
+    "en": {
+      "title": "Line height",
+      "description": ""
+    },
+    "de": {
+      "title": "Zeilenhöhe",
+      "description": ""
+    }
+  },
+  "nag-line-width": {
+    "en": {
+      "title": "Maximum text width",
+      "description": "Applies when Readable line length is enabled in the editor settings."
+    },
+    "de": {
+      "title": "Maximale Textbreite",
+      "description": "Gilt, wenn Lesbare Zeilenlänge in den Editor-Einstellungen aktiv ist."
+    }
+  }
+}
